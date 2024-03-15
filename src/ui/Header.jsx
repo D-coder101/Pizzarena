@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className="border-b border-stone-200 bg-yellow-400 px-6 py-3 uppercase sm:px-6 flex items-center justify-between">
       <Link to="/" className="tracking-widest">
-        Fast React Pizza Co.
+        Pizzarena
       </Link>
 
       <SearchOrder />
